@@ -43,8 +43,8 @@ Scikit-learn: Library for machine learning algorithms (e.g., Decision Tree, SVM,
 Keras: Deep learning library for building neural networks (BiLSTM model).
 Matplotlib & Seaborn: Libraries for creating visualizations.
 
-Decision Tree Regressor R-squared: 0.87
+**Decision Tree Regressor R-squared: 0.87
 SVM Regressor R-squared: 0.85
 Random Forest Regressor R-squared: 0.92
-BiLSTM R-squared: 0.88
+BiLSTM R-squared: 0.88**
 
